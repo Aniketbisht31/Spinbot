@@ -1,4 +1,4 @@
-SpinBot GitHub Repository
+SpinBot 
 React (Vite), FastAPI, MongoDB, Celery, GCP
 • Built an open-source AI workflow automation platform for automated MOM generation and customizable
 pipelines.
